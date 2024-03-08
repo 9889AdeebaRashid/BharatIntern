@@ -20,7 +20,7 @@ Github Repository Link - https://github.com/9889AdeebaRashid/PROJECT-movies-reco
 
    
       
-# Task - Iris Flower Clasification   
+# Task - Iris Flower Classification   
 
 Github Repository Link - https://github.com/9889AdeebaRashid/Iris_Classification_Internship_Task/blob/main/README.md
 
